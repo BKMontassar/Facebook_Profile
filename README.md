@@ -12,10 +12,11 @@
 
 <!-- Installation -->
 <h2 align="center">Installation</h2>
-<p align="center">1. Clone the repository:</p>
-<p align="center">```bash</br>git clone https://github.com/your-username/facebook-privacy-automation.git```</p>
-<p align="center">2. Install Python dependencies:</p>
-<p align="center">```bash</br>pip install -r requirements.txt```</p>
+
+The common commands for installing and using this project are:
+
+* `git clone https://github.com/BKMontassar/facebook-privacy-automation.git` — Clones the repository to your local machine.
+* `pip install -r requirements.txt` — Installs the Python dependencies required for this project.
 
 <!-- Usage -->
 <h2 align="center">Usage</h2>
@@ -46,11 +47,11 @@
 <!-- Contact Information -->
 <h2 align="center">Contact Information</h2>
 <p align="center">
-  <a target="_blank" href="mailto:your-email@example.com" style="margin-right: 10px;">
+  <a target="_blank" href="mailto:montassar.benkraiem@esprit.tn" style="margin-right: 10px;">
     <img alt="Gmail"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   
-  <a target="_blank" href="https://www.linkedin.com/in/your-linkedin-profile/" style="margin-left: 10px;">
+  <a target="_blank" href="https://www.linkedin.com/in/montassar-ben-kraiem-4a9a9713b/" style="margin-left: 10px;">
     <img alt="LinkedIn"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
