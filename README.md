@@ -14,15 +14,12 @@
 <h2 align="center">Installation</h2>
 
 The common commands for installing and using this project are:
+— Clones the repository to your local machine
+* `git clone https://github.com/BKMontassar/facebook-privacy-automation.git` .
+— Installs the Python dependencies required for this project.
+* `pip install -r requirements.txt` 
 
-* `git clone https://github.com/BKMontassar/facebook-privacy-automation.git` — Clones the repository to your local machine.
-* `pip install -r requirements.txt` — Installs the Python dependencies required for this project.
 
-<!-- Usage -->
-<h2 align="center">Usage</h2>
-<p align="center">1. Replace 'email' and 'password' in config.py with your Facebook credentials.</p>
-<p align="center">2. Run the script:</p>
-<p align="center">```bash</br>python automate_privacy.py```</p>
 
 <!-- How it Works -->
 <h2 align="center">How it Works</h2>
