@@ -12,7 +12,7 @@ from selenium.common.exceptions import NoSuchElementException
 
 
 # Specify the path to the ChromeDriver executable
-chrome_driver_path = 'D:\Telecharement 2019\chromedriver_win32\chromedriver.exe'
+chrome_driver_path = 'your_path'
 chrome_options = Options()
 chrome_options.add_argument("--disable-notifications")
 # Create a Service object
